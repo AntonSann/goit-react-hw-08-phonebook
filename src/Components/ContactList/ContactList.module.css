@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-inline-start: 0px;
+}
+
+li {
+  padding: 10px;
+  border: 1px solid;
+  margin-top: 12px;
+  border-radius: 5px;
+}
+.button_delete {
+  margin-left: 20px;
+  cursor: pointer;
+  border: solid 1p;
+}
